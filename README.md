@@ -19,8 +19,10 @@ The aim of this project is to highlight areas for further investigation and reco
 ## Methodology
 
 1.	Used SQL to extract, clean, and transform data from multiple relational tables.
+   
 2.	Imported transformed SQL query results into Power BI to develop interactive visualisations of energy consumption, energy costs, and greenhouse gas emissions across the mine’s main operations and sub-operations, helping identify major contributors and areas for further investigation.
-3.	Developed Power BI visualisations based on selected recommendations, to illustrate their potential impact on energy cost savings and greenhouse gas emissions reductions.
+   
+3. Developed Power BI visualisations based on selected recommendations, to illustrate their potential impact on energy cost savings and greenhouse gas emissions reductions.
 
 
 ## Skills
