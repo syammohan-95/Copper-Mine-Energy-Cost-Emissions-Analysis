@@ -94,7 +94,7 @@ The combined Scenario A and Scenario B results in an 8.6% reduction in energy co
 
 Based on the figure, the combined Scenario A and Scenario B can achieve total energy cost savings of approximately $554,000 compared to the current energy mix. The combined scenarios can also reduce total greenhouse gas emissions by approximately 27,000 tonnes CO₂e.
 
-### Table 0.1. Overall Energy Cost and Greenhouse Gas Emissions Intensity for Different Energy Scenarios
+*Table 1. Overall Energy Cost and Greenhouse Gas Emissions Intensity for Different Energy Scenarios.*
 
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/8759cfb8-6069-4dd0-89b0-7e981d887b7c" />
 
