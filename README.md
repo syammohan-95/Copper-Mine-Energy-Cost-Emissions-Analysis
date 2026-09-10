@@ -104,7 +104,7 @@ Based on the figure, the combined Scenario A and Scenario B can achieve **total 
 <br><br>
 <img width="750" alt="image" src="https://github.com/user-attachments/assets/9f7a9e17-e135-4bec-8ce3-5476ac54eb04" />
 
-*Figure 5. Comparison of total energy cost and greenhouse gas emissions for the current energy mix, and combined scenarios A + B.*
+*Figure 5. Comparison of total energy cost and greenhouse gas emissions for the current energy mix, compared to combined scenarios A + B.*
 
 ## Future Recommendations
 
