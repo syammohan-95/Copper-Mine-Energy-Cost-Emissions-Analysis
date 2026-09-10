@@ -37,7 +37,7 @@ Based on *Figure 1*, mineral processing and materials handling are identified as
 For the materials handling operation, haulage of the extracted ore and waste is the largest contributor to both energy consumption and cost, accounting for 72% of the operation’s total energy intensity and total energy cost respectively.
 
 For the mineral processing operation, the crushing and grinding of the mined ore are made up of primary crushing, secondary crushing, SAG milling and ball milling. Together, these activities account for approximately 73% of the operation’s total energy intensity and 75% of its total energy cost.
-<br>
+<br><br>
 
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/ca29d57b-972d-4e38-a097-986a0bcf2c5f" />
 
