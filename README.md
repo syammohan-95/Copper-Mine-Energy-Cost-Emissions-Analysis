@@ -1,8 +1,8 @@
 # End-to-End Data Analytics Project: Energy, Cost and Emissions Analysis of an Open-Pit Copper Mine
 
-*_**As there were no publicly available raw datasets for open-pit copper mine operations, synthetic data for an open-pit copper mine was generated using generative artificial intelligence.**_
+**_**As there were no publicly available raw datasets for open-pit copper mine operations, synthetic data for an open-pit copper mine was generated using generative artificial intelligence.**_
 
-*_**Nevertheless, it should be noted that all SQL data extraction, cleaning, transformation, and analysis presented here are entirely my own work.**_
+**_**Nevertheless, it should be noted that all SQL data extraction, cleaning, transformation, and analysis presented here are entirely my own work.**_
 
 ## Executive Summary
 
