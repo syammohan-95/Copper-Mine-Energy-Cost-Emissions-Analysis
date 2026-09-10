@@ -54,16 +54,19 @@ For both the materials handling and mineral processing operations, it was import
 Within the materials handling operation, the haulage of mined ore and waste is solely dependent on diesel consumption. In contrast, the mineral processing operation relies primarily on grid electricity, particularly in the crushing and grinding of the mined ore. Solar energy contributes only a small proportion of the electricity used for crushing and grinding, accounting for approximately 6% of total electricity consumption. This solar electricity is obtained through a power purchase agreement (PPA) with a solar energy provider.
 
 The significant dependence on grid electricity for crushing and grinding also contributes to the significant greenhouse gas emissions produced within the mineral processing operation, as shown in *Figure 6*. Based on *Figure 6*, mineral processing generates approximately 530 kg CO₂e/tonne of copper concentrate produced, accounting for around 58% of the mine’s total greenhouse gas emissions.
+<br><br>
 
-![Figure 4 - Energy sources of Materials Handling operation in the copper mine](images/figure-4.png)
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/d1fb3127-4096-4a25-9c20-9e00247c8fb6" />
 
 *Figure 4. Energy sources of Materials Handling operation in the copper mine.*
+<br><br>
 
-![Figure 5 - Energy sources of Mineral Processing operation in the copper mine](images/figure-5.png)
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/41ffe821-f760-464c-a81b-b6ed66e2301a" />
 
 *Figure 5. Energy sources of Mineral Processing operation in the copper mine.*
+<br><br>
 
-![Figure 6 - Greenhouse gas emissions intensity of main operations in the copper mine](images/figure-6.png)
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/705d2cc7-3217-4867-896c-28e2680151ea" />
 
 *Figure 6. Greenhouse gas emissions intensity of main operations in the copper mine.*
 
@@ -99,8 +102,9 @@ Based on the figure, the combined Scenario A and Scenario B can achieve total en
 | **Scenario A** | Solar PPA Supplying 20% of Total Electricity Requirements | 27.64 | 816.33 |
 | **Scenario B** | Modification of Haul Road Surface (Haulage Diesel Consumption Reduced by 20%) | 27.42 | 894.67 |
 | **Scenario A + B** | Solar PPA Supplying 20% of Total Electricity Requirements + Modification of Haul Road Surface | 26.29 | 795.67 |
+<br><br>
 
-![Figure 7 - Comparison of total energy cost and greenhouse gas emissions for the current energy mix and combined scenarios A + B](images/figure-7.png)
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/9f7a9e17-e135-4bec-8ce3-5476ac54eb04" />
 
 *Figure 7. Comparison of total energy cost and greenhouse gas emissions for the current energy mix and combined scenarios A + B.*
 
