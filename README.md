@@ -57,18 +57,13 @@ The significant dependence on grid electricity for crushing and grinding also co
 <br><br>
 
 <img width="650" alt="image" src="https://github.com/user-attachments/assets/d1fb3127-4096-4a25-9c20-9e00247c8fb6" />
-
-*Figure 4. Energy sources of Materials Handling operation in the copper mine.*
-<br><br>
+*Figure 3. Energy source contribution to energy costs and greenhouse gas emissions, in: (a) Materials Handling operation; (b) Mineral Processing operation*
 
 <img width="650" alt="image" src="https://github.com/user-attachments/assets/41ffe821-f760-464c-a81b-b6ed66e2301a" />
 
-*Figure 5. Energy sources of Mineral Processing operation in the copper mine.*
-<br><br>
-
 <img width="650" alt="image" src="https://github.com/user-attachments/assets/705d2cc7-3217-4867-896c-28e2680151ea" />
 
-*Figure 6. Greenhouse gas emissions intensity of main operations in the copper mine.*
+*Figure 4. Greenhouse gas emissions intensity of main operations in the copper mine.*
 
 ## Business Recommendation
 
