@@ -96,12 +96,8 @@ Based on the figure, the combined Scenario A and Scenario B can achieve total en
 
 ### Table 0.1. Overall Energy Cost and Greenhouse Gas Emissions Intensity for Different Energy Scenarios
 
-| Scenario | Energy Mix | Overall Energy Cost per Tonne Conc. (AUD/t conc.) | Overall CO₂e Emissions Intensity (kg CO₂e/t conc.) |
-|---|---|---:|---:|
-| **Current Energy Mix** | Current Energy Mix | 28.77 | 915.34 |
-| **Scenario A** | Solar PPA Supplying 20% of Total Electricity Requirements | 27.64 | 816.33 |
-| **Scenario B** | Modification of Haul Road Surface (Haulage Diesel Consumption Reduced by 20%) | 27.42 | 894.67 |
-| **Scenario A + B** | Solar PPA Supplying 20% of Total Electricity Requirements + Modification of Haul Road Surface | 26.29 | 795.67 |
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/8759cfb8-6069-4dd0-89b0-7e981d887b7c" />
+
 
 <br>
 
