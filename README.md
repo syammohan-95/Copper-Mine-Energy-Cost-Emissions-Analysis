@@ -82,7 +82,7 @@ The first recommendation involves improving the quality of the haul road surface
 
 The second recommendation is to increase the contribution of solar energy to the mine site’s electricity supply, thereby reducing its dependence on grid electricity. A reasonable target of 20% of the mine’s total electricity requirements being supplied by solar energy is recommended.
 
-*Table 1* presents the overall energy cost per tonne of copper concentrate produced and the overall greenhouse gas emissions intensity (greenhouse gas emissions per tonne copper concentrate) for the entire mine site under the following scenarios:
+*Table 1* presents the overall energy cost per tonne of copper concentrate and the overall greenhouse gas emissions intensity (greenhouse gas emissions per tonne copper concentrate) for the entire mine site under the following scenarios:
 
 1. **Current Energy Mix**
 2. **Scenario A** – Solar PPA Supplying 20% of Total Electricity Requirements
