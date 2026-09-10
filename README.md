@@ -96,7 +96,7 @@ Based on the figure, the combined Scenario A and Scenario B can achieve total en
 
 *Table 1. Overall Energy Cost and Greenhouse Gas Emissions Intensity for Different Energy Scenarios.*
 
-<img width="650" alt="image" src="https://github.com/user-attachments/assets/8759cfb8-6069-4dd0-89b0-7e981d887b7c" />
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/8759cfb8-6069-4dd0-89b0-7e981d887b7c" />
 <br><br>
 <img width="750" alt="image" src="https://github.com/user-attachments/assets/9f7a9e17-e135-4bec-8ce3-5476ac54eb04" />
 
