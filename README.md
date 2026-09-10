@@ -33,13 +33,13 @@ The aim of this project is to highlight areas for further investigation and reco
 
 ## Results
 
-*Figure 1* presents the energy intensity, defined as the energy consumed per tonne of copper concentrate produced (bar graph), together with the corresponding energy cost per tonne concentrate (line graph) across the different operations within the copper mine investigated.
+*Figure 1* presents the energy intensity, defined as the energy consumed per tonne of copper concentrate produced (bar graph), together with the corresponding energy cost per tonne concentrate (line graph) across the different operations within the copper mine.
 
-Based on *Figure 1*, mineral processing and materials handling are identified as the major contributors to both energy intensity and energy cost within the copper mine. These operations were therefore investigated in greater detail by analysing their respective sub-operations, as shown in *Figure 2(a)* and *(b)*.
+Based on *Figure 1*, Mineral Processing and Materials Handling are identified as the major contributors to both energy intensity and energy cost within the copper mine. These operations were therefore investigated in greater detail by analysing their respective sub-operations, as shown in *Figure 2(a)* and *(b)*.
 
-For the materials handling operation, haulage of the extracted ore and waste is the largest contributor to both energy consumption and cost, accounting for 72% of the operation’s total energy intensity and total energy cost respectively.
+For the Materials Handling operation, haulage of the extracted ore and waste is the largest contributor to both energy consumption and cost, accounting for 72% of the operation’s total energy intensity and total energy cost respectively.
 
-For the mineral processing operation, the crushing and grinding of the mined ore are made up of primary crushing, secondary crushing, SAG milling and ball milling. Together, these activities account for approximately 73% of the operation’s total energy intensity and 75% of its total energy cost.
+For the Mineral Processing operation, the crushing and grinding of the mined ore are made up of primary crushing, secondary crushing, SAG milling and ball milling. Together, these activities account for approximately 73% of the operation’s total energy intensity and 75% of its total energy cost.
 <br><br>
 
 <img width="650" alt="image" src="https://github.com/user-attachments/assets/ca29d57b-972d-4e38-a097-986a0bcf2c5f" />
@@ -52,11 +52,11 @@ For the mineral processing operation, the crushing and grinding of the mined ore
 
 *Figure 2. Energy intensity and energy cost of: (a) Materials Handling operation; (b) Mineral Processing operation*
 
-For both the materials handling and mineral processing operations, it was important to identify the energy sources responsible for the significant energy intensity and energy costs observed in *Figure 2(a)* and *(b)*. *Figure 3(a)* and *(b)* present the energy sources used within the materials handling and mineral processing operations, respectively.
+For both the Materials Handling and Mineral Processing operations, it was important to identify the energy sources responsible for the significant energy intensity and energy costs observed in *Figure 2(a)* and *(b)*. *Figure 3(a)* and *(b)* present the energy sources used within the Materials Handling and Mineral Processing operations, respectively.
 
-Within the materials handling operation, the haulage of mined ore and waste is solely dependent on diesel consumption. In contrast, the mineral processing operation relies primarily on grid electricity, particularly in the crushing and grinding of the mined ore. Solar energy contributes only a small proportion of the electricity used for crushing and grinding, accounting for approximately 6% of total electricity consumption. This solar electricity is obtained through a power purchase agreement (PPA) with a solar energy provider.
+Within the Materials Handling operation, the haulage of mined ore and waste is solely dependent on diesel consumption (yellow bar graph). In contrast, the Mineral Processing operation relies primarily on grid electricity (red bar graph), particularly in the crushing and grinding of the mined ore. Solar energy (blue bar graph) contributes only a small proportion of the electricity used for crushing and grinding, accounting for approximately 6% of total electricity consumption. This solar electricity is obtained through a power purchase agreement (PPA) with a solar energy provider.
 
-The significant dependence on grid electricity for crushing and grinding also contributes to the significant greenhouse gas emissions produced within the mineral processing operation, as shown in *Figure 4*. Based on *Figure 4*, mineral processing generates approximately 530 kg CO₂e/tonne of copper concentrate produced, accounting for around 58% of the mine’s total greenhouse gas emissions.
+The significant dependence on grid electricity for crushing and grinding also contributes to the significant greenhouse gas emissions produced within the Mineral Processing operation, as shown in *Figure 4*. Based on *Figure 4*, Mineral Processing generates approximately 530 kg CO₂e/tonne of copper concentrate produced, accounting for around 58% of the mine’s total greenhouse gas emissions.
 <br><br>
 
 
@@ -92,7 +92,7 @@ The combined Scenario A and Scenario B results in an 8.6% reduction in energy co
 
 *Figure 5* presents the total energy cost and total greenhouse gas emissions for the entire mine site under the current energy mix, as well as the combined Scenario A and Scenario B. The total energy costs are represented by the bar graph, while the total greenhouse gas emissions are represented by the line graph.
 
-Based on the figure, the combined Scenario A and Scenario B can achieve total energy cost savings of approximately $554,000 compared to the current energy mix. The combined scenarios can also reduce total greenhouse gas emissions by approximately 27,000 tonnes CO₂e.
+Based on the figure, the combined Scenario A and Scenario B can achieve **total energy cost savings of approximately $554,000** compared to the current energy mix. The combined scenarios can also **reduce total greenhouse gas emissions by approximately 27,000 tonnes CO₂e**.
 
 *Table 1. Overall Energy Cost and Greenhouse Gas Emissions Intensity for Different Energy Scenarios.*
 
@@ -105,6 +105,7 @@ Based on the figure, the combined Scenario A and Scenario B can achieve total en
 ## Future Recommendations
 
 1. Investigate the feasibility of adopting electrified haulage trucks and trolley assist systems to further reduce diesel fuel consumption in haulage operations.
+   
 2. Investigate the feasibility of increasing the contribution of solar power to the mine site’s electricity supply. This should also include an investigation of the costs and practicality of battery storage systems to store excess solar energy generated during the day.
 
 ## References
