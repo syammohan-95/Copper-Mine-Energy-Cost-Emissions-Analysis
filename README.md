@@ -102,6 +102,7 @@ Based on the figure, the combined Scenario A and Scenario B can achieve total en
 | **Scenario A** | Solar PPA Supplying 20% of Total Electricity Requirements | 27.64 | 816.33 |
 | **Scenario B** | Modification of Haul Road Surface (Haulage Diesel Consumption Reduced by 20%) | 27.42 | 894.67 |
 | **Scenario A + B** | Solar PPA Supplying 20% of Total Electricity Requirements + Modification of Haul Road Surface | 26.29 | 795.67 |
+
 <br><br>
 
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/9f7a9e17-e135-4bec-8ce3-5476ac54eb04" />
