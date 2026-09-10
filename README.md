@@ -84,7 +84,7 @@ The second recommendation is to increase the contribution of solar energy to the
 2. **Scenario A** – Solar PPA Supplying 20% of Total Electricity Requirements
 3. **Scenario B** – Modification of Haul Road Conditions (Haulage Diesel Consumption Reduced by 20%)
 
-Based on *Table 0.1*, Scenario A reduces the energy cost per tonne of copper concentrate by 3.9% compared to the mine site’s current energy mix. It also results in a 10.8% reduction in greenhouse gas emissions intensity.
+Based on *Table 1*, Scenario A reduces the energy cost per tonne of copper concentrate by 3.9% compared to the mine site’s current energy mix. It also results in a 10.8% reduction in greenhouse gas emissions intensity.
 
 Scenario B, on the other hand, reduces the overall energy cost per tonne of copper concentrate by 4.7% compared to the mine site’s current energy mix. It also results in a 2.3% reduction in greenhouse gas emissions intensity.
 
