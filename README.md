@@ -93,7 +93,7 @@ The combined Scenario A and Scenario B results in an 8.6% reduction in energy co
 *Figure 5* presents the total energy cost and total greenhouse gas emissions for the entire mine site under the current energy mix, as well as the combined Scenario A and Scenario B. The total energy costs are represented by the bar graph, while the total greenhouse gas emissions are represented by the line graph.
 
 Based on the figure, the combined Scenario A and Scenario B can achieve **total energy cost savings of approximately $554,000** compared to the current energy mix. The combined scenarios can also **reduce total greenhouse gas emissions by approximately 27,000 tonnes CO₂e**.
-<br>
+<br><br>
 *Table 1. Overall Energy Cost and Greenhouse Gas Emissions Intensity for Different Energy Scenarios.*
 
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/8759cfb8-6069-4dd0-89b0-7e981d887b7c" />
