@@ -56,10 +56,12 @@ Within the materials handling operation, the haulage of mined ore and waste is s
 The significant dependence on grid electricity for crushing and grinding also contributes to the significant greenhouse gas emissions produced within the mineral processing operation, as shown in *Figure 4*. Based on *Figure 4*, mineral processing generates approximately 530 kg CO₂e/tonne of copper concentrate produced, accounting for around 58% of the mine’s total greenhouse gas emissions.
 <br><br>
 
-<img width="650" alt="image" src="https://github.com/user-attachments/assets/d1fb3127-4096-4a25-9c20-9e00247c8fb6" />
-*Figure 3. Energy source contribution to energy costs and greenhouse gas emissions, in: (a) Materials Handling operation; (b) Mineral Processing operation*
 
-<img width="650" alt="image" src="https://github.com/user-attachments/assets/41ffe821-f760-464c-a81b-b6ed66e2301a" />
+<img width="650" alt="image" src="https://github.com/user-attachments/assets/b2a9fdef-d85c-41e9-8ba3-18df8b7a391a" />
+<img width="650" alt="image" src="https://github.com/user-attachments/assets/c77a2b0b-18dd-4ac5-8d7a-53c9abb4bb36" />
+
+*Figure 3. Energy source contribution to energy costs and greenhouse gas emissions, in: (a) Materials Handling operation; (b) Mineral Processing operation*
+<br><br>
 
 <img width="650" alt="image" src="https://github.com/user-attachments/assets/705d2cc7-3217-4867-896c-28e2680151ea" />
 
@@ -95,7 +97,7 @@ Based on the figure, the combined Scenario A and Scenario B can achieve total en
 <br><br>
 <img width="750" alt="image" src="https://github.com/user-attachments/assets/9f7a9e17-e135-4bec-8ce3-5476ac54eb04" />
 
-*Figure 7. Comparison of total energy cost and greenhouse gas emissions for the current energy mix and combined scenarios A + B.*
+*Figure 5. Comparison of total energy cost and greenhouse gas emissions for the current energy mix and combined scenarios A + B.*
 
 ## Future Recommendations
 
