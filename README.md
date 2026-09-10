@@ -46,7 +46,7 @@ For the Materials Handling operation, haulage of the extracted ore and waste is 
 For the Mineral Processing operation, the crushing and grinding of the mined ore are made up of primary crushing, secondary crushing, SAG milling and ball milling. Together, these activities account for approximately 73% of the operation’s total energy intensity and 75% of its total energy cost.
 <br><br>
 
-<img width="650" alt="image" src="https://github.com/user-attachments/assets/d1758b2c-7deb-4bc1-9152-07f5f5f5855c" />
+<img width="650" alt="image" src="https://github.com/user-attachments/assets/3d7bfce1-6e67-48b6-b4ff-7246304c8abe" />
 
 *Figure 1. Energy intensity and energy cost of main operations in the copper mine.*
 <br><br>
