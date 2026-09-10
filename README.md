@@ -46,6 +46,7 @@ For the mineral processing operation, the crushing and grinding of the mined ore
 <br>
 
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/748d7c6e-f188-41f5-8230-c8b5629eed08" />
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/71d9bce5-175d-44fe-8b76-c2ea2f5aa3c0" />
 
 *Figure 2. Energy intensity and energy cost of: (a) Materials Handling operation; (b) Mineral Processing operation*
 
