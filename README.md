@@ -2,9 +2,9 @@
 
 ## Executive Summary
 
-This project used synthetic data for an open-pit copper mine, generated using generative artificial intelligence. 
+This project used synthetic data, i.e. multiple relational tables for an open-pit copper mine, generated using generative artificial intelligence (AI). All data extraction, cleaning, transformation, and analysis across the datasets were conducted independently without AI assistance.
 
-SQL was used to extract, clean and transform data from multiple relational tables of the open-pit copper mine. This was followed by analysing the energy consumption, cost, and greenhouse gas emissions data produced by the mine. The processed data was imported into Power BI to create visualisations, and compare energy consumption, energy costs, and greenhouse gas emissions across the mine’s operations and sub-operations.
+SQL was used to extract, clean and transform data from the multiple relational tables of the copper mine. This was followed by analysing the energy consumption, cost, and greenhouse gas emissions data produced by the mine. The processed data was imported into Power BI to create visualisations, and compare energy consumption, energy costs, and greenhouse gas emissions across the mine’s operations and sub-operations.
 
 Mineral Processing and Materials Handling operations were identified as the main contributors to the copper mine’s energy consumption and energy costs, with Mineral Processing also producing the largest amount of greenhouse gas emissions.
 
