@@ -44,9 +44,10 @@ For the mineral processing operation, the crushing and grinding of the mined ore
 *Figure 1. Energy intensity and energy cost of main operations in the copper mine.*
 
 <br>
-<img width="1074" height="424" alt="image" src="https://github.com/user-attachments/assets/8872a761-aaf3-428e-b0c1-09c591af78ff" />
 
-*Figure 2. Energy intensity and energy cost of Materials Handling operation in the copper mine.*
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/748d7c6e-f188-41f5-8230-c8b5629eed08" />
+
+*Figure 2. Energy intensity and energy cost of: (a) Materials Handling operation; (b) Mineral Processing operation*
 
 ![Figure 3 - Energy intensity and energy cost of Mineral Processing operation in the copper mine](images/figure-3.png)
 
