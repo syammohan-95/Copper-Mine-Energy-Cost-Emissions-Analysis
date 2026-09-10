@@ -63,7 +63,7 @@ The significant dependence on grid electricity for crushing and grinding also co
 <img width="650" alt="image" src="https://github.com/user-attachments/assets/b2a9fdef-d85c-41e9-8ba3-18df8b7a391a" />
 <img width="650" alt="image" src="https://github.com/user-attachments/assets/c77a2b0b-18dd-4ac5-8d7a-53c9abb4bb36" />
 
-*Figure 3. Energy source contribution to energy costs and greenhouse gas emissions, in: (a) Materials Handling operation; (b) Mineral Processing operation*
+*Figure 3. Energy source contribution to energy intensity and energy costs, in: (a) Materials Handling operation; (b) Mineral Processing operation*
 <br><br>
 
 <img width="650" alt="image" src="https://github.com/user-attachments/assets/705d2cc7-3217-4867-896c-28e2680151ea" />
