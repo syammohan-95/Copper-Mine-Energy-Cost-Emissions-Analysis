@@ -39,13 +39,13 @@ For the materials handling operation, haulage of the extracted ore and waste is 
 For the mineral processing operation, the crushing and grinding of the mined ore are made up of primary crushing, secondary crushing, SAG milling and ball milling. Together, these activities account for approximately 73% of the operation’s total energy intensity and 75% of its total energy cost.
 <br><br>
 
-<img width="600" alt="image" src="https://github.com/user-attachments/assets/ca29d57b-972d-4e38-a097-986a0bcf2c5f" />
+<img width="650" alt="image" src="https://github.com/user-attachments/assets/ca29d57b-972d-4e38-a097-986a0bcf2c5f" />
 
 *Figure 1. Energy intensity and energy cost of main operations in the copper mine.*
 <br><br>
 
-<img width="600" alt="image" src="https://github.com/user-attachments/assets/748d7c6e-f188-41f5-8230-c8b5629eed08" />
-<img width="600" alt="image" src="https://github.com/user-attachments/assets/71d9bce5-175d-44fe-8b76-c2ea2f5aa3c0" />
+<img width="650" alt="image" src="https://github.com/user-attachments/assets/748d7c6e-f188-41f5-8230-c8b5629eed08" />
+<img width="650" alt="image" src="https://github.com/user-attachments/assets/71d9bce5-175d-44fe-8b76-c2ea2f5aa3c0" />
 
 *Figure 2. Energy intensity and energy cost of: (a) Materials Handling operation; (b) Mineral Processing operation*
 
@@ -56,17 +56,17 @@ Within the materials handling operation, the haulage of mined ore and waste is s
 The significant dependence on grid electricity for crushing and grinding also contributes to the significant greenhouse gas emissions produced within the mineral processing operation, as shown in *Figure 6*. Based on *Figure 6*, mineral processing generates approximately 530 kg CO₂e/tonne of copper concentrate produced, accounting for around 58% of the mine’s total greenhouse gas emissions.
 <br><br>
 
-<img width="600" alt="image" src="https://github.com/user-attachments/assets/d1fb3127-4096-4a25-9c20-9e00247c8fb6" />
+<img width="650" alt="image" src="https://github.com/user-attachments/assets/d1fb3127-4096-4a25-9c20-9e00247c8fb6" />
 
 *Figure 4. Energy sources of Materials Handling operation in the copper mine.*
 <br><br>
 
-<img width="600" alt="image" src="https://github.com/user-attachments/assets/41ffe821-f760-464c-a81b-b6ed66e2301a" />
+<img width="650" alt="image" src="https://github.com/user-attachments/assets/41ffe821-f760-464c-a81b-b6ed66e2301a" />
 
 *Figure 5. Energy sources of Mineral Processing operation in the copper mine.*
 <br><br>
 
-<img width="600" alt="image" src="https://github.com/user-attachments/assets/705d2cc7-3217-4867-896c-28e2680151ea" />
+<img width="650" alt="image" src="https://github.com/user-attachments/assets/705d2cc7-3217-4867-896c-28e2680151ea" />
 
 *Figure 6. Greenhouse gas emissions intensity of main operations in the copper mine.*
 
@@ -96,7 +96,7 @@ Based on the figure, the combined Scenario A and Scenario B can achieve total en
 
 *Table 1. Overall Energy Cost and Greenhouse Gas Emissions Intensity for Different Energy Scenarios.*
 
-<img width="600" alt="image" src="https://github.com/user-attachments/assets/8759cfb8-6069-4dd0-89b0-7e981d887b7c" />
+<img width="650" alt="image" src="https://github.com/user-attachments/assets/8759cfb8-6069-4dd0-89b0-7e981d887b7c" />
 <br><br>
 <img width="750" alt="image" src="https://github.com/user-attachments/assets/9f7a9e17-e135-4bec-8ce3-5476ac54eb04" />
 
