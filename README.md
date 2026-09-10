@@ -70,7 +70,7 @@ The significant dependence on grid electricity for crushing and grinding also co
 *Figure 3. Energy source contribution to energy intensity and energy costs, in: (a) Materials Handling operation; (b) Mineral Processing operation*
 <br><br>
 
-<img width="650" alt="image" src="https://github.com/user-attachments/assets/e7068f21-021c-44bc-8130-712cffcbbd45" />
+<img width="650" alt="image" src="https://github.com/user-attachments/assets/b35d8a50-1ef9-4e58-b1ed-fabe62e77699" />
 
 *Figure 4. Greenhouse gas emissions intensity of main operations in the copper mine.*
 <br><br>
