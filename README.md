@@ -73,7 +73,7 @@ The significant dependence on grid electricity for crushing and grinding also co
 <img width="650" alt="image" src="https://github.com/user-attachments/assets/705d2cc7-3217-4867-896c-28e2680151ea" />
 
 *Figure 4. Greenhouse gas emissions intensity of main operations in the copper mine.*
-
+<br><br>
 ## Business Recommendation
 
 In order to reduce energy costs and greenhouse gas emissions, two potential improvement scenarios are recommended for further evaluation.
