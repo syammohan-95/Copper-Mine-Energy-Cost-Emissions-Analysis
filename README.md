@@ -54,7 +54,7 @@ For the Mineral Processing operation, the crushing and grinding of the mined ore
 <img width="650" alt="image" src="https://github.com/user-attachments/assets/3ee420dd-b168-448a-ac54-f1b86c83e0f3" />
 <img width="650" alt="image" src="https://github.com/user-attachments/assets/6e1ec8c8-8080-4536-a562-ae7374d8ceb5" />
 
-*Figure 2. Energy intensity and energy cost of: (a) Materials Handling operation; (b) Mineral Processing operation*
+*Figure 2. Energy intensity and energy cost of: (a) Materials Handling operation; (b) Mineral Processing operation.*
 <br><br>
 For both the Materials Handling and Mineral Processing operations, it was important to identify the energy sources responsible for the significant energy intensity and energy costs observed in *Figure 2(a)* and *(b)*. *Figure 3(a)* and *(b)* present the energy sources used within the Materials Handling and Mineral Processing operations, respectively.
 
@@ -67,7 +67,7 @@ The significant dependence on grid electricity for crushing and grinding also co
 <img width="650" alt="image" src="https://github.com/user-attachments/assets/fac08a9b-8cdb-4e7e-8646-518bd62ae1af" />
 <img width="650" alt="image" src="https://github.com/user-attachments/assets/210bc818-4cc9-473d-87e3-f6e414c82256" />
 
-*Figure 3. Energy source contribution to energy intensity and energy costs, in: (a) Materials Handling operation; (b) Mineral Processing operation*
+*Figure 3. Energy source contribution to energy intensity and energy costs, in: (a) Materials Handling operation; (b) Mineral Processing operation.*
 <br><br>
 
 <img width="650" alt="image" src="https://github.com/user-attachments/assets/b35d8a50-1ef9-4e58-b1ed-fabe62e77699" />
