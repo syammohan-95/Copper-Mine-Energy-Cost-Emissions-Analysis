@@ -64,8 +64,8 @@ The significant dependence on grid electricity for crushing and grinding also co
 <br><br>
 
 
-<img width="650" alt="image" src="https://github.com/user-attachments/assets/b2a9fdef-d85c-41e9-8ba3-18df8b7a391a" />
-<img width="650" alt="image" src="https://github.com/user-attachments/assets/c77a2b0b-18dd-4ac5-8d7a-53c9abb4bb36" />
+<img width="650" alt="image" src="https://github.com/user-attachments/assets/fac08a9b-8cdb-4e7e-8646-518bd62ae1af" />
+<img width="650" alt="image" src="https://github.com/user-attachments/assets/210bc818-4cc9-473d-87e3-f6e414c82256" />
 
 *Figure 3. Energy source contribution to energy intensity and energy costs, in: (a) Materials Handling operation; (b) Mineral Processing operation*
 <br><br>
