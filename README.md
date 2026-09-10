@@ -55,7 +55,7 @@ For the Mineral Processing operation, the crushing and grinding of the mined ore
 <img width="650" alt="image" src="https://github.com/user-attachments/assets/71d9bce5-175d-44fe-8b76-c2ea2f5aa3c0" />
 
 *Figure 2. Energy intensity and energy cost of: (a) Materials Handling operation; (b) Mineral Processing operation*
-
+<br><br>
 For both the Materials Handling and Mineral Processing operations, it was important to identify the energy sources responsible for the significant energy intensity and energy costs observed in *Figure 2(a)* and *(b)*. *Figure 3(a)* and *(b)* present the energy sources used within the Materials Handling and Mineral Processing operations, respectively.
 
 Within the Materials Handling operation, the haulage of mined ore and waste is solely dependent on diesel consumption (yellow bar graph). In contrast, the Mineral Processing operation relies primarily on grid electricity (red bar graph), particularly in the crushing and grinding of the mined ore. Solar energy (blue bar graph) contributes only a small proportion of the electricity used for crushing and grinding, accounting for approximately 6% of total electricity consumption. This solar electricity is obtained through a power purchase agreement (PPA) with a solar energy provider.
