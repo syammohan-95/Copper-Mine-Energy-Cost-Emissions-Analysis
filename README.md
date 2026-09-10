@@ -8,7 +8,7 @@ SQL was used to extract, clean and transform data from multiple relational table
 
 Mineral Processing and Materials Handling operations were identified as the main contributors to the copper mine’s energy consumption and energy costs, with Mineral Processing also producing the largest amount of greenhouse gas emissions.
 
-**Increasing solar energy PPA (power purchase agreement)** supply to **20% of total electricity usage**, and **reducing haulage diesel consumption by 20% through improved haul-road conditions**, could collectively reduce energy costs by **8.6%** and emissions intensity by **13.1%**. These measures could deliver **energy cost savings of approximately AUD 554,000** and **reduce greenhouse gas emissions by around 27,000 tonnes CO₂e**.
+**Increasing solar energy PPA (power purchase agreement)** supply to **20% of total electricity usage**, and **reducing haulage diesel consumption by 20% through improved haul-road conditions**, could collectively reduce energy costs by 8.6% and emissions intensity by 13.1%. These measures could deliver **energy cost savings of approximately AUD 554,000** and **reduce greenhouse gas emissions by around 27,000 tonnes CO₂e**.
 
 ## Business Problem
 
