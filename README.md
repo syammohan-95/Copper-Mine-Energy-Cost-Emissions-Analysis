@@ -14,7 +14,7 @@ Within Materials Handling, haulage was the dominant contributor in the operation
 
 Mineral Processing was also the largest source of greenhouse gas emissions, primarily due to its dependence on grid electricity.
 
-**Increasing solar energy PPA (power purchase agreement)** supply to **20% of total electricity usage**, and **reducing haulage diesel consumption by 20% through improved haul-road conditions**, could collectively reduce energy costs by 8.6% and emissions intensity by 13.1%. These measures could deliver **energy cost savings of approximately AUD 554,000** and **reduce greenhouse gas emissions by around 27,000 tonnes CO₂e**.
+**Increasing solar energy PPA (power purchase agreement)** supply to **20% of total electricity usage**, and **reducing haulage diesel consumption by 20% through improved haul-road conditions**, could collectively reduce energy costs by 8.6% and emissions intensity by 13.1%. These measures could deliver **energy cost savings of approximately AU$554,000** and **reduce greenhouse gas emissions by around 27,000 tonnes CO₂e**.
 
 ## Business Problem
 
