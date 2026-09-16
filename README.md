@@ -8,7 +8,7 @@
 
 This project used synthetic data (i.e. multiple relational tables) for an open-pit copper mine, generated using generative artificial intelligence. SQL was used to extract, clean and transform data from the multiple relational tables of the copper mine. This was followed by analysing the energy consumption, cost, and greenhouse gas emissions data produced by the mine. The processed data was imported into Power BI to create visualisations, and compare energy consumption, energy costs, and greenhouse gas emissions across the mine’s operations and sub-operations.
 
-Mineral Processing and Materials Handling operations were identified as the main contributors to the copper mine’s energy consumption and energy costs, with Mineral Processing also producing the largest amount of greenhouse gas emissions. 
+Mineral Processing and Materials Handling operations were identified as the main contributors to the copper mine’s energy consumption and energy costs. 
 
 Within Materials Handling, haulage was the dominant contributor in the total energy consumption and energy cost. Within Mineral Processing on the other hand, crushing and grinding activities, including primary crushing, secondary crushing, SAG milling, and ball milling, accounted for the majority of the total energy consumption and energy cost. Mineral Processing was also the largest source of greenhouse gas emissions, primarily due to its dependence on grid electricity.
 
