@@ -10,7 +10,7 @@ This project used synthetic data (i.e. multiple relational tables) for an open-p
 
 Mineral Processing and Materials Handling operations were identified as the main contributors to the copper mine’s energy consumption and energy costs. 
 
-Within Materials Handling, haulage was the dominant contributor in the total energy consumption and energy cost. Within Mineral Processing on the other hand, crushing and grinding activities, i.e. primary crushing, secondary crushing, SAG milling, and ball milling, accounted for the majority of the total energy consumption and energy cost. 
+Within Materials Handling, haulage was the dominant contributor in the operation's total energy consumption and energy cost. Within Mineral Processing, crushing and grinding activities, i.e. primary crushing, secondary crushing, SAG milling, and ball milling, accounted for the majority of the operation's total energy consumption and energy cost. 
 
 Mineral Processing was also the largest source of greenhouse gas emissions, primarily due to its dependence on grid electricity.
 
